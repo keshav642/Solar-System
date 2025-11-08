@@ -1,0 +1,16 @@
+{
+  "name": "learn-with-monk-jha",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "vite": "^4.5.0"
+  },
+  "dependencies": {
+    "three": "^0.158.0"
+  }
+}
